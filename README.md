@@ -1,3 +1,13 @@
+## This project was created by following the Course on Udemy
+### Course name Modern React with Redux 2020
+### Author - Stephen Grider
+#### MileStone - lecture 288 - creating a stream
+
+#### about the course
+Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!
+
+
+## Below is the auto genertae comments from create-react-app command
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
